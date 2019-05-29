@@ -1,4 +1,4 @@
-# Discogs Artists App
+# Discogs Artists React Native App
 
 ```
 $ yarn
